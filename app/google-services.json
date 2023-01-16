@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83900637987",
+    "project_id": "upload-image-d9802",
+    "storage_bucket": "upload-image-d9802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83900637987:android:73e7b4c29edc140e10e296",
+        "android_client_info": {
+          "package_name": "com.sameh.uploadimagetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83900637987-a8h7mnv2gura6ilgrasfsttdl5iah060.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sameh.uploadimagetofirebase",
+            "certificate_hash": "d43eaad9bbb3bfff947cbab6a3d26ffb70163dc7"
+          }
+        },
+        {
+          "client_id": "83900637987-f1gr9gklqbihhuvfamp5hmopensq05ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzjBF2zaLHwr2cPl5VwQC7u1nJrhtlJ1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83900637987-f1gr9gklqbihhuvfamp5hmopensq05ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
